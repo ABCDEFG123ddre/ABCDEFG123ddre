@@ -1,4 +1,7 @@
-### Hi there 👋
+### About Me
+Study at National Taiwan Normal University
+Major: Computer Science and Information Engineering
+Interdisciplinary Programs: Finance
 
 <!--
 **ABCDEFG123ddre/ABCDEFG123ddre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
