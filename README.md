@@ -1,6 +1,8 @@
 ### About Me
-Study at National Taiwan Normal University
+School: National Taiwan Normal University
+
 Major: Computer Science and Information Engineering
+
 Interdisciplinary Programs: Finance
 
 <!--
