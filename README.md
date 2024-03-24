@@ -1,9 +1,13 @@
 ### About Me
-School: National Taiwan Normal University
+#### Study at National Taiwan Normal University
 
-Major: Computer Science and Information Engineering
+- Major: Computer Science and Information Engineering
 
-Interdisciplinary Programs: Finance
+- Interdisciplinary Programs: Finance
+
+#### 🌱 I’m currently working on
+- Computer Components Purchase Query System
+
 
 <!--
 **ABCDEFG123ddre/ABCDEFG123ddre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
