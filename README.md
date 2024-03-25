@@ -18,10 +18,10 @@
 [2]: https://www.instagram.com/_andrea_xu_tw
 [3]: https://www.linkedin.com/in/andrea-xu-630834237
 
-
-<!-- github stats
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABCDEFG123ddre)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABCDEFG123ddre&layout=compact)
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABCDEFG123ddre)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ABCDEFG123ddre/ABCDEFG123ddre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
