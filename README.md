@@ -8,8 +8,15 @@
 #### 🌱 I’m currently working on
 - Computer Components Purchase Query System
 
+#### 📫 How to reach me
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][3]
+[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABCDEFG123ddre&layout=compact)](https://github.com/yushi1007)
+
+[1]: https://www.facebook.com/andrea.hsu.908
+[2]: https://www.instagram.com/_andrea_xu_tw
+[3]: https://www.linkedin.com/in/andrea-xu-630834237
 
 <!-- github stats
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABCDEFG123ddre)](https://github.com/anuraghazra/github-readme-stats)
