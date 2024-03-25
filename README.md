@@ -14,10 +14,10 @@
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 
-
 [1]: https://www.facebook.com/andrea.hsu.908
 [2]: https://www.instagram.com/_andrea_xu_tw
 [3]: https://www.linkedin.com/in/andrea-xu-630834237
+
 
 <!-- github stats
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABCDEFG123ddre)](https://github.com/anuraghazra/github-readme-stats)
