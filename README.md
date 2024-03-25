@@ -9,6 +9,7 @@
 - Computer Components Purchase Query System
 
 #### 📫 How to reach me
+
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][3]
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
@@ -20,7 +21,7 @@
 
 <!-- github stats
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABCDEFG123ddre)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABCDEFG123ddre&layout=compact)
 <!--
 **ABCDEFG123ddre/ABCDEFG123ddre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
