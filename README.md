@@ -5,8 +5,13 @@
 
 - Interdisciplinary Programs: Finance
 
-#### 🌱 I’m currently working on
+#### 🔭 I’m currently working on
 - Computer Components Purchase Query System
+
+#### 🌱 I’m currently learning
+- MySQL
+- Snowflake
+
 
 #### 📫 How to reach me
 
