@@ -7,6 +7,12 @@
 
 #### 🔭 I’m currently working on
 - Computer Components Purchase Query System
+- Courses discussion and online study group system
+
+### 🌱 I’m currently learning
+- Postgresql, MySQL
+- PHP
+- Django
 
 
 
