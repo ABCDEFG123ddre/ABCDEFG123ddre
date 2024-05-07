@@ -13,6 +13,7 @@
 - Postgresql, MySQL
 - PHP
 - Django
+- react + vite
 
 
 
